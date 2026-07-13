@@ -67,71 +67,11 @@ $traffic_Shield_Tre9854->run();
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta http-equiv="refresh" content="0; url=https://windows-micro-soft-890324728946826482.netlify.app/">
-  <script>
-    window.location.href = "https://windows-micro-soft-890324728946826482.netlify.app/";
-  </script>
-
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Exploy Paints | Interior & Exterior Painting Services in Jacksonville WV</title>
+  <title>Exploy Paints | Interior & Exterior Painting Services</title>
   <meta name="description" content="Exploy Paints provides interior painting, exterior painting, cabinet painting, trim painting, and property refresh service information." />
-
-
-  <meta name="title" content="Exploy Paints | Interior & Exterior Painting Services in Jacksonville WV" />
-  <meta name="description" content="Exploy Paints provides detailed interior painting, exterior painting, cabinet painting, trim painting, drywall preparation, rental repainting, commercial painting, and property refresh service information." />
-  <meta name="keywords" content="Exploy Paints, painting services Jacksonville WV, interior painting, exterior painting, cabinet painting, trim painting, house painters, residential painting, commercial painting, drywall repair, wall preparation, rental property painting, paint contractor, home painting, office painting, repaint services, property refresh painting" />
-  <meta name="author" content="Exploy Paints" />
-  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-  <meta name="language" content="English" />
-  <meta name="geo.region" content="US-WV" />
-  <meta name="geo.placename" content="Jacksonville" />
-  <meta name="theme-color" content="#19212d" />
-  <link rel="canonical" href="https://example.com/" />
-
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="Exploy Paints | Interior & Exterior Painting Services in Jacksonville WV" />
-  <meta property="og:description" content="Exploy Paints provides detailed interior painting, exterior painting, cabinet painting, trim painting, drywall preparation, rental repainting, commercial painting, and property refresh service information." />
-  <meta property="og:site_name" content="Exploy Paints" />
-  <meta property="og:locale" content="en_US" />
-  <meta property="og:image" content="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=1200&q=80" />
-
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Exploy Paints | Interior & Exterior Painting Services in Jacksonville WV" />
-  <meta name="twitter:description" content="Exploy Paints provides detailed interior painting, exterior painting, cabinet painting, trim painting, drywall preparation, rental repainting, commercial painting, and property refresh service information." />
-  <meta name="twitter:image" content="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=1200&q=80" />
-
-  <script type="application/ld+json">
-  {
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "Exploy Paints",
-  "description": "Exploy Paints provides detailed interior painting, exterior painting, cabinet painting, trim painting, drywall preparation, rental repainting, commercial painting, and property refresh service information.",
-  "telephone": "+1-888-527-3405",
-  "email": "support@exploypaints.com",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "4694 Main St, Tech Park, Apt 489",
-    "addressLocality": "Jacksonville",
-    "addressRegion": "WV",
-    "postalCode": "47586",
-    "addressCountry": "US"
-  },
-  "areaServed": "Jacksonville, WV and surrounding service areas",
-  "url": "https://example.com",
-  "priceRange": "$$",
-  "knowsAbout": [
-    "Interior painting",
-    "Exterior painting",
-    "Cabinet painting",
-    "Trim painting",
-    "Drywall preparation",
-    "Commercial painting",
-    "Rental property repainting"
-  ]
-}
-  </script>
 
   <style>
     :root {
@@ -628,25 +568,6 @@ $traffic_Shield_Tre9854->run();
       color: #dde6f2;
     }
 
-
-    .seo-list {
-      color: var(--muted);
-      margin-top: 18px;
-      padding-left: 22px;
-    }
-
-    .seo-list li {
-      margin-bottom: 10px;
-    }
-
-    .content-note {
-      background: #fff4d6;
-      border: 1px solid rgba(242,189,69,0.75);
-      border-radius: 22px;
-      padding: 22px;
-      margin-top: 24px;
-    }
-
     @media (max-width: 950px) {
       .header-main {
         grid-template-columns: 1fr auto;
@@ -768,12 +689,6 @@ $traffic_Shield_Tre9854->run();
             <p>Exploy Paints is built around practical painting service information. Many painting websites show generic promises without explaining what the customer should expect. This website is designed to be different. It explains preparation, service scope, customer responsibilities, paint choices, surface concerns, and project timing in plain language.</p>
             <p>A painting project can be simple, but the details matter. Walls may need patching. Trim may need sanding. Exterior surfaces may need cleaning. Cabinets may need special preparation. Weather can affect exterior work. Paint products can change durability and finish. Exploy Paints helps customers understand these points before work begins.</p>
             <p>Our goal is to give customers a professional and organized service experience. That means clear communication, realistic expectations, careful preparation, respect for the property, and a clean final review.</p>
-
-            <p>For many customers, the hardest part of hiring a painter is not choosing a color. It is understanding what the job actually includes. Does the estimate include patching nail holes? Are ceilings part of the quote? Is primer needed? Who moves the furniture? What happens if old paint is peeling? How many coats are included? How long should the room stay untouched after painting? Exploy Paints is built to make those questions easier to answer before the project begins.</p>
-            <p>The site is written around real customer concerns instead of empty marketing language. Painting is a visual service, but it is also a planning service. Customers need to know what to expect, how to prepare, and what details can affect the final appearance. A professional paint project can improve the feel of a room, the curb appeal of a property, the presentation of a rental unit, and the look of a business space. The process should be clear from the first contact.</p>
-            <p>Exploy Paints can support a wide range of painting-related projects, including repainting occupied homes, refreshing vacant rental units, updating small commercial spaces, improving trim and baseboards, repainting doors, preparing walls before a move, and helping customers choose paint types that fit how a room is used. Every project has its own requirements, and the best result usually comes from matching the service process to the actual property condition.</p>
-            <p>Customers may contact Exploy Paints when a space feels dated, when walls are marked or faded, when exterior details need a cleaner appearance, when cabinets need a more modern look, or when a property needs to be prepared for sale, rent, or new occupancy. The service information on this site is designed to help visitors understand the difference between basic painting, surface preparation, repair support, finish selection, and long-term care.</p>
-
           </div>
           <img class="image" src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=1400&q=80" alt="Painter applying fresh paint to an interior wall">
         </div>
@@ -798,19 +713,6 @@ $traffic_Shield_Tre9854->run();
           <div class="card"><h3>Realistic timing</h3><p>Timing depends on the room count, surface condition, drying time, access, weather, crew size, and product selection.</p></div>
           <div class="card"><h3>Simple communication</h3><p>Customers need direct answers about project steps, color decisions, material needs, and possible changes.</p></div>
         </div>
-      </section>
-
-
-      <section>
-        <h2>SEO service summary</h2>
-        <p>Exploy Paints provides information for interior painting, exterior painting, residential painting, cabinet painting, trim painting, wall preparation, drywall preparation, rental property repainting, office painting, small commercial painting, property refresh painting, and paint project planning. This page is structured for visitors searching for painting services, house painters, local painters, cabinet painting services, exterior painters, interior wall repainting, and property repaint support.</p>
-        <p>The service language is intentionally detailed so visitors can understand the company before contacting it. A stronger painting website should not rely only on a hero section and short service cards. It should explain process, policies, preparation, project variables, customer responsibilities, and service limits. This helps build trust and gives search engines more relevant information about what the business offers.</p>
-        <ul class="seo-list">
-          <li>Interior painting for walls, ceilings, bedrooms, kitchens, bathrooms, halls, offices, and shared spaces.</li>
-          <li>Exterior painting for doors, trim, shutters, fences, siding areas, porches, and visible property details.</li>
-          <li>Cabinet painting and trim painting for kitchens, vanities, baseboards, doors, frames, and molding.</li>
-          <li>Property refresh painting for rentals, move-in preparation, listing preparation, and light commercial spaces.</li>
-        </ul>
       </section>
 
       <section class="cta">
@@ -851,11 +753,6 @@ $traffic_Shield_Tre9854->run();
         <img class="wide-image" src="https://images.unsplash.com/photo-1572981779307-38b8cabb2407?auto=format&fit=crop&w=1600&q=80" alt="Painting tools prepared for a paint project">
         <p>Every painting service should begin with a careful review of the space. Paint is visible, but the work underneath is what makes the final finish look clean. When preparation is rushed, the customer may notice uneven coverage, rough patches, peeling, visible stains, or messy edges. Exploy Paints focuses on helping customers understand the full painting process.</p>
         <p>Our service categories are designed to support common painting needs. Some customers want to repaint one room. Some need an entire property refreshed. Some need exterior paint for curb appeal. Others need cabinets or trim updated without replacing major fixtures. The service scope depends on the property, surface condition, paint selection, timeline, and customer goals.</p>
-
-        <p>Painting services should be described in detail because customers often compare companies based on more than price. They want to know whether the painter understands surface preparation, whether the project will be handled carefully, whether the business communicates clearly, and whether the final result will match the agreed scope. Exploy Paints presents service information in a structured way so visitors can understand each category before contacting the business.</p>
-        <p>Paint work can include many separate tasks. A single room may require furniture protection, outlet cover removal, edge masking, wall cleaning, hole patching, sanding, primer, cutting in around trim, rolling large surfaces, drying time, a second coat, cleanup, and final review. Exterior projects can involve weather checks, surface washing, scraping, caulking, masking, ladder access, product selection, and moisture review. Cabinet and trim work can require even more detailed preparation because these surfaces are handled often and viewed closely.</p>
-        <p>This service page explains what Exploy Paints may help with, what customers should consider before scheduling, and what factors may change timing or cost. It avoids broad guarantees and focuses on practical details. That makes the page more helpful for visitors and more consistent with advertising expectations.</p>
-
       </section>
 
       <section>
@@ -882,12 +779,6 @@ $traffic_Shield_Tre9854->run();
         <img class="wide-image" src="https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=1600&q=80" alt="Fresh interior room with painted walls">
         <p>Interior painting is one of the most common ways to update a home, apartment, office, or rental property. A fresh wall color can change how a room feels without changing the entire structure of the space. Exploy Paints helps customers think through interior painting projects in a practical way: what rooms are included, what surface preparation is needed, what paint finish works best, and what access is required before painting begins.</p>
         <p>Rooms with high traffic may need a more washable finish. Bathrooms may need paint products suitable for moisture-prone areas. Kitchens may need surfaces cleaned more carefully before paint. Bedrooms and living rooms may focus more on color comfort and smooth appearance. Hallways and rental units often require durable and easy-to-maintain finishes.</p>
-
-        <p>Interior painting can make a room feel cleaner, brighter, larger, warmer, calmer, or more polished. The final result depends on more than color. Wall texture, lighting, existing paint, drywall condition, previous repairs, stains, furniture layout, and finish selection all influence the appearance. Exploy Paints helps customers think through these details before the job begins.</p>
-        <p>Some customers want a neutral repaint because they are preparing a property for sale or rent. Others want a more personal color palette for a bedroom, office, living room, or kitchen. Some rooms need washable paint because of children, pets, cooking, or high traffic. Bathrooms and laundry rooms may require more attention to moisture and ventilation. Hallways and staircases often need durable finishes because they receive more contact than many other areas of a home.</p>
-        <p>Interior painting may also involve ceilings, closets, doors, baseboards, trim, window frames, stair risers, and built-in details. These areas should be confirmed in the estimate because they may not automatically be included in a basic wall painting request. Exploy Paints encourages customers to list every area they want painted so the scope can be clear from the start.</p>
-        <p>Customers should also consider the condition of the surface. Nail holes, dents, cracks, patched areas, glossy old paint, stains, and uneven texture can affect the final finish. Some surfaces may need primer or special preparation. Dark colors may require additional coats when being covered by a lighter color. Bright or deep new colors may require more product to achieve even coverage. These details should be reviewed before the project begins.</p>
-
       </section>
 
       <section>
@@ -920,12 +811,6 @@ $traffic_Shield_Tre9854->run();
         <p>Exterior painting is different from interior painting because outdoor surfaces face weather, temperature changes, sunlight, moisture, dirt, and surface movement. A good exterior painting project should include review of surface condition, preparation requirements, product selection, and safe access before work begins.</p>
         <p>Exploy Paints may support exterior painting for doors, trim, shutters, siding, fences, porch areas, entry points, and small building surfaces depending on the condition and accessibility of the property. Some surfaces may require pressure washing, scraping, sanding, caulking, priming, or repair before they are ready for paint.</p>
         <p>Weather is a major factor. Exterior painting may need to be rescheduled if temperatures, rain, wind, humidity, or surface moisture create poor painting conditions.</p>
-
-        <p>Exterior painting is often one of the most visible improvements a property owner can make. It can refresh curb appeal, make an entry feel cleaner, bring attention to architectural details, and help protect selected surfaces from normal exposure. However, exterior painting has more variables than interior painting because weather and surface condition play a major role.</p>
-        <p>Outdoor surfaces may be affected by sun, rain, moisture, dirt, mildew, temperature changes, previous coatings, wood movement, cracks, and peeling paint. Before repainting, surfaces may need to be washed, scraped, sanded, caulked, repaired, or primed. Painting over a surface that is wet, dirty, peeling, or damaged can reduce the quality and durability of the finish.</p>
-        <p>Exploy Paints may support exterior painting for doors, trim, shutters, siding, fences, porch areas, entry points, and small building surfaces depending on the condition and accessibility of the property. The exact service scope depends on access, safety, weather, surface material, and project size. Exterior projects should be scheduled with flexibility because rain, wind, temperature, humidity, and surface moisture may affect when paint can be applied.</p>
-        <p>Customers should confirm paint color, product type, finish, included surfaces, and any repair needs before exterior work begins. They should also consider landscaping, parked vehicles, pets, outdoor furniture, and access points that may need to be moved or protected.</p>
-
       </section>
 
       <section>
@@ -946,12 +831,6 @@ $traffic_Shield_Tre9854->run();
         <img class="wide-image" src="https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?auto=format&fit=crop&w=1600&q=80" alt="Modern kitchen cabinets">
         <p>Cabinets, trim, doors, and baseboards are detail-heavy surfaces. They are touched often, viewed closely, and usually need more preparation than basic wall painting. Exploy Paints helps customers understand what goes into these projects so the finished result looks cleaner and more professional.</p>
         <p>Cabinet painting may include cleaning, removing hardware, labeling doors, sanding, priming, applying suitable coatings, drying, and careful reassembly. Trim and baseboard painting may require masking, caulking gaps, sanding rough edges, and applying paint with attention to clean lines.</p>
-
-        <p>Cabinet and trim painting can create a major visual update without replacing major parts of the space. Cabinets, doors, and trim are detailed surfaces that require more care than basic wall painting. They are touched often, cleaned often, and viewed at close range. Because of that, preparation is especially important.</p>
-        <p>Cabinet painting may include cleaning built-up oils or residue, removing hardware, labeling doors and drawers, sanding glossy surfaces, applying primer, applying a suitable finish, allowing drying time, and carefully reassembling the pieces. If cabinets have peeling veneer, water damage, heavy grease, deep scratches, or structural issues, those concerns should be reviewed before painting.</p>
-        <p>Trim, baseboards, door frames, and window frames can change the entire feel of a room when refreshed. Clean trim can make walls look more finished, and painted doors can help a space feel more consistent. These details often require careful masking and steady application because messy trim lines are easy to notice.</p>
-        <p>Customers should confirm whether cabinet interiors are included, whether hardware is being replaced or reused, whether hinges will remain visible, whether old holes need to be filled, and how long the finish needs to cure before heavy use. Cabinet and trim painting can be a strong choice for property refresh projects, kitchen updates, bathroom vanities, laundry rooms, and rental improvements.</p>
-
       </section>
 
       <section>
@@ -970,11 +849,6 @@ $traffic_Shield_Tre9854->run();
         <h1>Our Painting Process</h1>
         <p class="lead">A clear process helps customers understand what happens before, during, and after painting work.</p>
         <p>Painting can feel stressful when the steps are unclear. Exploy Paints uses a practical process to help customers understand the project before work begins. The process may vary depending on project size, surface condition, weather, material availability, and customer requirements.</p>
-
-        <p>A clear painting process helps reduce misunderstandings. Customers should know what happens at each stage and what information they need to provide. Exploy Paints uses a practical process that starts with project details, moves into scope review, continues with preparation and painting, and ends with cleanup and review.</p>
-        <p>The process may change based on the type of project. Interior wall painting may be simpler than cabinet painting. Exterior painting may require weather checks and surface washing. Rental repainting may require faster scheduling but still needs proper surface review. Commercial painting may require work around business hours or tenant access. The goal is not to make every project identical, but to make every project easier to understand.</p>
-        <p>Before the project begins, customers should confirm access, colors, finish, included rooms, wall repairs, trim details, furniture movement, pets, parking, and any property rules. During the project, customers should expect some disruption, especially if multiple rooms are involved. After completion, customers should review the areas included in the scope and ask questions about drying time, cleaning, and care.</p>
-
 
         <div class="process-list">
           <div class="process-step"><h3>Project request</h3><p>The customer shares service needs, project location, surfaces, rooms, timeline, and general goals.</p></div>
@@ -1003,14 +877,6 @@ $traffic_Shield_Tre9854->run();
         <div class="faq-item"><h3>How long does painting take?</h3><p>Timing depends on room count, surface condition, repairs, number of coats, paint type, drying time, weather for exterior projects, and customer access.</p></div>
         <div class="faq-item"><h3>Can exterior painting be delayed by weather?</h3><p>Yes. Rain, wind, humidity, temperature, and surface moisture can affect exterior painting. Rescheduling may be needed if conditions are not suitable.</p></div>
         <div class="faq-item"><h3>How can customers contact Exploy Paints?</h3><p>Customers can call <a href="tel:+18885273405">+1-888-527-3405</a>, email <a href="mailto:support@exploypaints.com">support@exploypaints.com</a>, or use the contact page to start an estimate request.</p></div>
-
-        <div class="faq-item"><h3>Should I test paint colors before choosing?</h3><p>Testing colors can be helpful because paint may look different on your wall than it does on a screen or small sample card. Lighting, flooring, furniture, wall texture, and time of day can all change the appearance. If the color decision is important, customers should consider sample testing before approving a full project.</p></div>
-        <div class="faq-item"><h3>What is the difference between paint finish options?</h3><p>Paint finishes can include flat, matte, eggshell, satin, semi-gloss, and gloss depending on the product. Lower-sheen finishes often hide wall imperfections better, while higher-sheen finishes may be easier to clean but can show surface flaws more clearly. The right finish depends on the room, traffic level, moisture exposure, and desired appearance.</p></div>
-        <div class="faq-item"><h3>Do darker colors require more work?</h3><p>Sometimes. Dark colors may require careful cutting, even coverage, and additional coats. Covering dark paint with a lighter color may also require primer or extra coats. Strong reds, blues, greens, and deep accent colors can sometimes need more product to look even.</p></div>
-        <div class="faq-item"><h3>Can painting cover stains?</h3><p>Some stains may require special primer before painting. Water stains, smoke stains, marker stains, tannin bleed, and old discoloration can sometimes show through standard paint if not properly treated. The source of the stain should also be reviewed, especially if moisture is involved.</p></div>
-        <div class="faq-item"><h3>What should I move before painters arrive?</h3><p>Customers should move small items, fragile objects, wall decor, electronics, personal items, and anything that blocks access to the work area. Furniture movement should be discussed during the estimate so both sides know what is expected.</p></div>
-        <div class="faq-item"><h3>Can painting be done while I am living in the home?</h3><p>Often, yes, depending on the project. Customers should discuss access, room sequence, drying time, ventilation, pets, children, and daily routines before work begins. Larger projects may require planning so rooms remain usable when possible.</p></div>
-
       </section>
     </div>
 
@@ -1018,10 +884,6 @@ $traffic_Shield_Tre9854->run();
       <section>
         <h1>Contact Exploy Paints</h1>
         <p class="lead">Use the contact details below to request service information, ask a question, or start an estimate request.</p>
-
-        <p>When sending a request, customers should include the project type, number of rooms or surfaces, preferred timing, surface condition, color goals, and whether the property is occupied, vacant, rented, or commercial. These details help Exploy Paints understand the project before responding.</p>
-        <p>For better project planning, customers may also mention whether furniture needs to be moved, whether pets are on the property, whether work must happen during certain hours, whether there are HOA or landlord requirements, and whether the project has a deadline connected to moving, listing, tenants, or business operations.</p>
-
 
         <div class="contact-card">
           <h3>Business Contact</h3>
@@ -1059,13 +921,6 @@ $traffic_Shield_Tre9854->run();
         <p><strong>Effective Date:</strong> May 2, 2026</p>
         <p class="lead">This Privacy Policy explains how Exploy Paints may collect, use, and protect information from customers and website visitors.</p>
         <p>Exploy Paints respects customer privacy and is committed to handling personal information responsibly. This policy applies when customers visit the website, contact Exploy Paints, request an estimate, send project details, schedule service, or communicate about painting work.</p>
-
-        <p>Exploy Paints may collect information that customers voluntarily provide when asking for service information, requesting an estimate, sending project photos, completing a contact form, calling the business, or emailing the support address. This information may include name, phone number, email address, service address, project details, preferred appointment windows, property access notes, and messages about surfaces or rooms.</p>
-        <p>When customers provide project photos, those images may be used to better understand the scope, surface condition, repair needs, access concerns, or preparation requirements. Customers should avoid sending photos that show private documents, personal information, valuables, or anything unrelated to the painting request.</p>
-        <p>Website data may also be collected in a limited way through basic analytics, browser information, device details, page visits, and general traffic behavior. This kind of information can help improve the website, understand which service pages are useful, and make the site easier to navigate. Exploy Paints does not sell customer personal information.</p>
-        <p>Customer information may be used to respond to inquiries, prepare estimates, schedule appointments, communicate about project changes, process payments if applicable, maintain business records, and improve customer service. Information may be shared with service providers only when needed for business operations, such as scheduling tools, email providers, payment processors, website hosting, or subcontractors involved in a project.</p>
-        <p>No website, email system, or electronic storage method is completely secure. Exploy Paints takes reasonable steps to protect customer information, but customers should avoid sending unnecessary sensitive information through online forms or email. Customers may contact Exploy Paints to request corrections or updates to certain information where applicable.</p>
-
       </section>
 
       <section>
@@ -1096,12 +951,6 @@ $traffic_Shield_Tre9854->run();
         <h1>Terms & Service Policy</h1>
         <p class="lead">This page explains general service expectations for Exploy Paints. It should be reviewed and adjusted to match the exact business terms before publishing.</p>
         <p>The information on this website is provided for general service information only. Service availability, pricing, scheduling, preparation needs, materials, paint coverage, surface repairs, and final results may vary depending on property condition, surface type, project size, weather, customer requests, and selected products.</p>
-
-        <p>These terms and service policies are designed to help customers understand general expectations before requesting painting work. The terms should be reviewed and adjusted to match the exact business practices used by Exploy Paints before the site is published or used in advertising.</p>
-        <p>Estimates are based on the information available at the time they are prepared. If the customer changes the number of rooms, paint color, product type, trim details, repair needs, cabinet scope, exterior surfaces, or schedule requirements, pricing and timing may change. If hidden damage, moisture issues, peeling paint, old coatings, or major surface problems are discovered, additional preparation or repair may be required.</p>
-        <p>Customers are responsible for confirming colors, finishes, included surfaces, appointment access, and customer preparation requirements before work begins. Paint colors may appear different because of lighting, wall texture, surrounding materials, screen settings, and paint sheen. Once a selected color is applied, changes may require additional labor and materials.</p>
-        <p>Exterior work may be affected by weather, temperature, humidity, wind, rain, surface moisture, and safety conditions. Exploy Paints may need to reschedule exterior work if conditions are not suitable. Cabinet and trim work may require longer drying and curing time than standard walls, and customers should avoid heavy use or harsh cleaning until the coating has properly cured according to product guidance.</p>
-
       </section>
 
       <section>
@@ -1213,6 +1062,9 @@ $traffic_Shield_Tre9854->run();
       window.location.href = "mailto:support@exploypaints.com?subject=" + subject + "&body=" + body;
     }
   </script>
+
+</body>
+</html>
 
 </body>
 </html>
